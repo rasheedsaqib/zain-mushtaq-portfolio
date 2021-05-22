@@ -1058,7 +1058,23 @@ a:active {
 
 .about-img {
     position: relative;
+    margin-top: 20px;
 }
+
+.about-img img{
+    width: 500px;
+}
+
+@media screen and (max-width: 768px){
+    .about-img img{
+        width: 350px;
+    }
+
+    .about-info h3{
+        font-size: 18px;
+    }
+}
+
 .about-info {
     position: relative;
 }
