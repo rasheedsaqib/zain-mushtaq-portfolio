@@ -42,7 +42,6 @@ h1,h2,h3,h4,h5,h6{
  font-family: "Barlow", sans-serif;
  color: #1b1a1a;
  text-transform: capitalize;
- clear: both;
  line-height: 1.2;
  margin: 0 0 15px;
  font-weight: 700;
@@ -599,6 +598,7 @@ a:active {
     padding: 0;
     color: #FFFFFF;
     font-size: 28px;
+    width: 200px;
 }
 
 .header.sticky_header .sticky-logo{
