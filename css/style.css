@@ -372,6 +372,10 @@ a:active {
     top: 7px;
     left: 6px;
 }
+
+.section-title h5{
+    color: #FFFFFF;
+}
 .white-title h6 span::before {
     background: #ffffff;
 }
@@ -383,6 +387,7 @@ a:active {
         font-family: 'Nunito', sans-serif;
     }
 }
+
 
 /* === LOADER === */
 
